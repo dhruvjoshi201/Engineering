@@ -5,9 +5,8 @@ body{
      background: url('./Photos/Background.svg');
      background-size: 100%;
      background-repeat:repeat-y
-     background-attachment: fixed;
 }
-{
-     width: 100%;
-    
+.nav-link{
+     color: rgb(255, 255, 255);
+     font-weight: bold;
 }
