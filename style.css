@@ -1,0 +1,13 @@
+body{
+     background: rgb(246, 242, 242);
+     margin: 0;
+     padding: 0;
+     background: url('./Photos/Background.svg');
+     background-size: 100%;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+{
+     width: 100%;
+    
+}
