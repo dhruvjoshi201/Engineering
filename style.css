@@ -4,7 +4,7 @@ body{
      padding: 0;
      background: url('./Photos/Background.svg');
      background-size: 100%;
-     /* background-repeat: no-repeat; */
+     background-repeat:repeat-y
      background-attachment: fixed;
 }
 {
